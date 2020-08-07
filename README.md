@@ -1,6 +1,6 @@
 # ANTI-CP-main
 Dark-Fb No Login 100% safe
-<img src="https://github.com/OmDenay-MB911/ANTI-CP-maim
+https://github.com/OmDenay-MB911/ANTI-CP-maim
 # Module
 ```
 • pip2 install tqdm
